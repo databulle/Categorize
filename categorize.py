@@ -40,7 +40,7 @@ if __name__ == '__main__':
     parser.add_argument('-i', '--input', type=str, required=True,
                         help="Input file (required)")
     parser.add_argument('-o', '--output', type=str, required=False,
-                        help="Output file (default: categorised.csv)", default="categorised.csv")
+                        help="Output file (default: categorised.csv)", default="categorized.csv")
     parser.add_argument('-s', '--sep', type=str, required=False,
                         help="Output file CSV separator (default: ';' )", default=";")
     args = parser.parse_args()
