@@ -7,7 +7,7 @@ Small Python script to categorize data using RegEx.
 
 Simply clone this repo:  
 
-    git clone git@gitlab.com:diije/categorize.git  
+    git clone git@gitlab.com:databulle/categorize.git  
 
 
 ## Use
