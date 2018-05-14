@@ -1,3 +1,7 @@
-categorized.csv
+*.csv
+!example-data.csv
+*.txt
+!example-rules.txt
 .DS_Store
 rules/*
+*.swp
