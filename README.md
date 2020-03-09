@@ -39,3 +39,7 @@ Each line must start with the regular expression pattern, followed by a semicolu
     REGEX;CATEGORY_NAME  
 
 You'll find some examples in the `example-rules.txt` file.  
+
+## Contributing
+
+If you wish to contribute to this repository or to report an issue, please use [GitLab](https://gitlab.com/databulle/categorize).
